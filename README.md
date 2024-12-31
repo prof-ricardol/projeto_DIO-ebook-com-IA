@@ -29,6 +29,7 @@ Criar um ebook estruturado que ensine os fundamentos do HTML, incluindo:
 - **Markdown:** Formato utilizado para estruturar o texto do ebook.
 - **Git e GitHub:** Ferramentas para versionamento e colaboração no projeto.
 - **Microsoft Word:** Ferramenta para diagramação do conteúdo gerado.
+- **VS Code:** Ferramenta para adaptação de códigos gerados pela IA para alocação em imagens.
 
 ## 📚 Estrutura do Ebook
 
